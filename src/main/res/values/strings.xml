@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LeetCode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_permission">你可能没有权限查看此题，或者网络断开</string>
+    <string name="login">login</string>
+
+    <string name="setting">setting</string>
+    <string name="ac">my ac</string>
+    <string name="algori">algorihms</string>
+
+    <string name="username">username</string>
+    <string name="pwd">password</string>
+
+    <string name="logout">logout</string>
+
+    <string name="welcome">leetcode in hand\nbeauty girl in head</string>
+
+</resources>

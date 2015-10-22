@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_algo"
+            android:title="@string/algori"
+            android:icon="@mipmap/loading"
+            android:orderInCategory="100"
+            android:checked="true"/>
+
+        <item
+            android:id="@+id/menu_ac"
+            android:title="@string/ac"
+            android:icon="@mipmap/loading"
+            android:orderInCategory="100"/>
+
+        <item
+            android:id="@+id/menu_setting"
+            android:title="@string/setting"
+            android:icon="@mipmap/loading"
+            android:orderInCategory="100"/>
+
+        <item
+            android:id="@+id/menu_logout"
+            android:title="@string/logout"
+            android:icon="@mipmap/loading"
+            android:orderInCategory="100"/>
+
+    </group>
+
+</menu>
